@@ -1,4 +1,4 @@
-# Dynamic_Forms_with_JQuery
+# Dynamic_Web_Forms_with_JQuery
 <ul>
   <li>Adding JQuery to create interactive web forms</li>
   <li>Match two form fields to check if the content is the same</li>
