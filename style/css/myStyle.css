@@ -1,0 +1,17 @@
+div {
+    margin: 20px;
+}
+.one {
+    border: 1px solid black;
+    display: inline-block;
+    padding: 5px;
+    background-color: azure;
+}
+.highlight {
+    background-color: red;
+}
+#output {
+    background-color: yellow;
+    border: 2px solid black;
+    padding: 10px;
+}
